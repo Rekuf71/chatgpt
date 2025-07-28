@@ -1,0 +1,9 @@
+{
+  "name": "SMC",
+  "vwap_window": 14,
+  "multi_tf": {
+    "enabled": true,
+    "timeframes": ["1h", "4h"]
+  },
+  "chromedriver_path": "chromedriver.exe"
+}
