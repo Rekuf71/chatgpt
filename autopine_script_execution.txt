@@ -1,8 +1,0 @@
-C:\Windows\System32> cd /d C:\scripts
-C:\scripts> rd only /S /Q
-C:\scripts> rd already /S /Q
-C:\scripts> rd if /S /Q
-C:\scripts> rd not /S /Q
-C:\scripts> rd created /S /Q
-C:\scripts> mkdir generated
-C:\scripts> python autopine_full_orchestrator.py
